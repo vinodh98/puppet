@@ -1,4 +1,4 @@
-puppet
-======
+Puppet Test Repositories
+========================
 
-Puppet Test Repo
+- The contents of this repo will be automaticall synched to all puppet clients
